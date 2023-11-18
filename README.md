@@ -77,6 +77,8 @@ Request: /api/Film/FilmSil?id={filmId}
 
 Kategori API Dokümantasyonu
 --------------------------------------------------------------------------
+![Kategori](https://github.com/ihsantapan/Movie-Web_API/assets/48277121/dc7e267e-a164-48e7-be62-7240f2f7f668)
+--------------------------------------------------------------------------
 
 Tüm Kategorileri Al (GET)
 
@@ -140,6 +142,8 @@ Request: /api/Kategori/KategoriSil?id={kategoriId}
 --------------------------------------------------------------------------
 
 Oyuncu API Dokümantasyonu
+--------------------------------------------------------------------------
+![Oyuncu](https://github.com/ihsantapan/Movie-Web_API/assets/48277121/3a6d5b01-9ad6-47fb-9ae0-9bbec8e67064)
 --------------------------------------------------------------------------
 
 Tüm Oyuncuları Al (GET)
