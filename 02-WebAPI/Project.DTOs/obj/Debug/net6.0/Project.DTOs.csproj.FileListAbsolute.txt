@@ -1,0 +1,11 @@
+D:\Bilge Adam BOOST\Uygulama Dersleri\08-Web API\02-WebAPI\Project.DTOs\bin\Debug\net6.0\Project.DTOs.deps.json
+D:\Bilge Adam BOOST\Uygulama Dersleri\08-Web API\02-WebAPI\Project.DTOs\bin\Debug\net6.0\Project.DTOs.dll
+D:\Bilge Adam BOOST\Uygulama Dersleri\08-Web API\02-WebAPI\Project.DTOs\bin\Debug\net6.0\Project.DTOs.pdb
+D:\Bilge Adam BOOST\Uygulama Dersleri\08-Web API\02-WebAPI\Project.DTOs\obj\Debug\net6.0\Project.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bilge Adam BOOST\Uygulama Dersleri\08-Web API\02-WebAPI\Project.DTOs\obj\Debug\net6.0\Project.DTOs.AssemblyInfoInputs.cache
+D:\Bilge Adam BOOST\Uygulama Dersleri\08-Web API\02-WebAPI\Project.DTOs\obj\Debug\net6.0\Project.DTOs.AssemblyInfo.cs
+D:\Bilge Adam BOOST\Uygulama Dersleri\08-Web API\02-WebAPI\Project.DTOs\obj\Debug\net6.0\Project.DTOs.csproj.CoreCompileInputs.cache
+D:\Bilge Adam BOOST\Uygulama Dersleri\08-Web API\02-WebAPI\Project.DTOs\obj\Debug\net6.0\Project.DTOs.dll
+D:\Bilge Adam BOOST\Uygulama Dersleri\08-Web API\02-WebAPI\Project.DTOs\obj\Debug\net6.0\refint\Project.DTOs.dll
+D:\Bilge Adam BOOST\Uygulama Dersleri\08-Web API\02-WebAPI\Project.DTOs\obj\Debug\net6.0\Project.DTOs.pdb
+D:\Bilge Adam BOOST\Uygulama Dersleri\08-Web API\02-WebAPI\Project.DTOs\obj\Debug\net6.0\ref\Project.DTOs.dll
