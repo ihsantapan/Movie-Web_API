@@ -13,6 +13,8 @@ olanak tanır.
 
 Film API Dokümantasyonu
 --------------------------------------------------------------------------
+![Film](https://github.com/ihsantapan/Movie-Web_API/assets/48277121/6925aa89-be7b-403c-be7f-0040c4c0b495)
+--------------------------------------------------------------------------
 Tüm Filmleri Al (GET)
 
 Endpoint: /api/Film/TumFilmleriGetir
